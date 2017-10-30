@@ -171,7 +171,7 @@ class Store():
                 tskill = tskill + supgrade
                 print("Your total skill is now " + str(tskill))
                 pass
-skill = 10 + random.randint(10, 90)
+skill = 10 + random.randint(25, 90)
 if __name__ == '__main__':
     play_and_bet()
     storey = Store(tmoney)
