@@ -1,0 +1,10 @@
+This file is how to help other people understand my code and for me to make it better
+First I make my teams
+Then I make the function that will run when I need to rerun the game I will fix
+this so that it will run certain functions and then if the player wants to for
+example open the store the store will open
+Then I make the play function which is how you play a match and see if you win
+or lose and see how much money you now have
+The next class is bet which is how you bet money, if you win you get 4 time the
+amount you bet for but if you lose you lose 3 times the money you bet for
+Make a class store where you can upgrade your players skills or buy new players
